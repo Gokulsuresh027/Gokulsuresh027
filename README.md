@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GOKUL%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Test%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=62&descSize=16&v=1)
+![Header](https://capsulerender.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GOKUL%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Test%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=62&descSize=16&v=1)
 
 <a href="https://www.linkedin.com/in/gokul-s-2838b1251"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gokulsuresh027@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
