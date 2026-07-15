@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/code.gif" width="100%"/>
+  <img src="assets/giphy.gif" width="10%"/>
 </p>
 
 <a href="https://www.linkedin.com/in/gokul-s-2838b1251"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
