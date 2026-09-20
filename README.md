@@ -9,7 +9,7 @@
 <a href="mailto:gokulsuresh027@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Thrissur%2C%20Kerala-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Test+Engineer;Manual+%26+Selenium+Automation+Testing;STLC+%7C+Java+%7C+TestNG;Turning+Bugs+Into+Better+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Test+Engineer;Manual+%26+Selenium+Automation+Testing;STLC+%7C+Java+%7C+TestNG;Exploring+Web+Application+Security" alt="Typing SVG" />
 
 </div>
 
@@ -33,11 +33,20 @@ public class Gokul {
         "Apache JMeter"
     };
 
-    private String[] currentlyLearning = {
+    private String[] completedTesting = {
+        "Manual Testing",
+        "Automation Testing",
         "API Testing",
-        "Advanced Test Automation Frameworks",
         "Performance Testing",
         "Data-Driven Testing"
+    };
+
+    private String[] currentlyLearning = {
+        "Web Application Security Testing",
+        "OWASP Top 10",
+        "Burp Suite",
+        "Vulnerability Identification",
+        "Security Testing Techniques"
     };
 
     private String funFact =
@@ -80,10 +89,11 @@ public class Gokul {
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-**Performance Testing**
+**API & Performance Testing**
 
 <br>
 
+![API Testing](https://img.shields.io/badge/API%20Testing-555?style=flat-square)
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Performance Testing](https://img.shields.io/badge/Performance%20Testing-555?style=flat-square)
 
@@ -115,7 +125,7 @@ public class Gokul {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gokulsuresh027&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Gokulsuresh027&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B9498&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
 </div>
 
@@ -142,10 +152,10 @@ public class Gokul {
 
 > `Manual Testing` `STLC` `Selenium WebDriver` `Test Case Design` `Bug Reporting`
 
-- Learned Manual Testing and the Software Testing Life Cycle (STLC) end to end.
+- Learned Manual Testing and the Software Testing Life Cycle (STLC).
 - Designed and executed test cases for web applications across multiple modules.
 - Identified defects and documented bugs following standard reporting practices.
-- Performed basic Selenium WebDriver automation to support manual test coverage.
+- Performed Selenium WebDriver automation to support manual test coverage.
 
 </details>
 
@@ -159,7 +169,7 @@ public class Gokul {
 |---|---|---|
 | [**Hotel Sea Pearl – Manual Testing**](https://docs.google.com/spreadsheets/d/1axzxE0HDypeBPjAWdFDJyiAiQ83nrYeNwHhIkwvQvZc/edit?usp=sharing) | Manual Testing, STLC | Tested Home, Reservation, Rooms, Facilities, Restaurant, Conference Hall & Contact modules; covered Functional, UI, Negative, Security & Cross-Browser Testing |
 | [**IPCS Global Website – Manual Testing**](https://docs.google.com/spreadsheets/d/1fWy4TFHdpa59-eEVbGGa2OVJAayvYIQTCB-IwpYyNiw/edit?usp=sharing) | Manual Testing | Verified full site functionality & UI; executed UI, Negative & Cross-Browser Testing; reported defects with standard bug practices |
-| [**Hotel Sea Pearl – Selenium Automation**](https://github.com/Gokulsuresh027/Hotel-SeaPearl-Selenium-Automation) | Java, Selenium WebDriver, TestNG | Automated navigation, UI components, forms, sliders & social links using XPath/CSS Selectors; handled windows/alerts/keyboard actions; generated TestNG reports |
+| [**Hotel Sea Pearl – Selenium Automation**](https://github.com/Gokulsuresh027/Hotel-SeaPearl-Selenium-Automation) | Java, Selenium WebDriver, TestNG | Automated navigation, UI components, forms, sliders & social links using XPath/CSS Selectors; handled windows, alerts, and keyboard actions; generated TestNG reports |
 
 </div>
 
@@ -186,12 +196,11 @@ Actively building my testing portfolio — hackathon, certification, and metric-
 
 ## 📚 Currently Learning
 
-- Advanced Selenium WebDriver Automation
-- Maven Project Management
-- Cucumber (BDD Framework)
-- API Testing
-- Performance Testing using Apache JMeter
-- Data-Driven Testing
+- Web Application Security Testing
+- OWASP Top 10
+- Burp Suite
+- Vulnerability Identification
+- Security Testing Techniques
 
 ---
 
